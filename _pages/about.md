@@ -23,7 +23,7 @@ I am currently a 1st year Master at shenzhen International Graduate School, Tsin
 
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2022!
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by MICCAI 2022 and won the Student Travel Award!
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by ISBI 2022!
 - *2021.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2021!
 
@@ -39,12 +39,17 @@ I am currently a 1st year Master at shenzhen International Graduate School, Tsin
 [Multiple Instance Learning with Mixed Supervision in Gleason Grading](https://arxiv.org/abs/2206.12798)
 <!-- author -->
 
+
+
 **Hao Bian\***, Zhuchen Shao\*, Yang Chen\*, Yifeng Wang, Haoqian Wang, Jian Zhang, Yongbing Zhang
+
 <!-- conference or journal -->
-International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI2022
+International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI2022. Won the Student Travel Award
 <!-- link -->
 
 [code](https://github.com/bianhao123/mixed_supervision) / [video]() / [bibtex](images/bib/MICCAI2022_mixed_supervision.txt)
+
+The first Transformer-based mixed supervision method on the multiple instance learning framework for Gleason grading.
 </div>
 </div>
 
@@ -66,6 +71,7 @@ The IEEE International Symposium on Biomedical Imaging (ISBI), 2022
 
 <!-- link -->
 <!-- [code]() / [bibtex]() -->
+An novel multiple instance learning model which exploits both ROI-level and slide-level information for the breast tumor subtype classification
 </div>
 </div>
 
@@ -86,6 +92,8 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021
 
 <!-- link -->
 [code](https://github.com/szc19990412/TransMIL) / [video](https://www.bilibili.com/video/BV1nZ4y1D7p6?spm_id_from=333.337.search-card.all.click&vd_source=6c3a57fdf306b9ea2769fc82269cf2d1) / [bibtex](images/bib/NeurIPS2021_TransMIL.txt)
+
+The first Transformer-based correlated multiple instance learning model for whole slide image classiﬁcation
 </div>
 </div>
 
@@ -111,6 +119,8 @@ Pattern Recognition Letters, 2020
 
 <!-- link -->
 [code]() / [bibtex](images/bib/PRL2020_seg.txt)
+
+The first semantic-aware low-light image enhancement method.
 </div>
 </div>
 
@@ -134,7 +144,7 @@ Pattern Recognition Letters, 2020
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, Master, Tsinghua University. 
-- *2017.09 - 2021.06*, Undergraduate, Hefei University of Technology.
+- *2017.09 - 2021.06*, Undergraduate, Hefei University of Technology. (GPA: 4.01/4.3, Rank: 2/130)
 
 
 <!-- # 💬 Invited Talks
